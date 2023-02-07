@@ -18,3 +18,8 @@ Here are some ideas to get you started:
 <div align="center">
     <img src="https://i.pinimg.com/originals/41/85/84/418584e1566e9536a8cc76d53b92fd1d.gif" height="120px" />
 </div>
+
+<br/>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chinvoxel)](https://github.com/anuraghazra/github-readme-stats)
+
