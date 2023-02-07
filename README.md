@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 
 <div align="center">
-    <img src="https://i.pinimg.com/originals/1d/ea/8d/1dea8d0f2dab4a24e262fae44d66c3fb.gif" height="120px" />
+    <img src="https://i.pinimg.com/originals/61/71/81/6171819be4c31993357d758196c75701.gif" height="120px" />
 </div>
