@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 <div align="center">
-    <img src="https://github.com/Chinvoxel/blog/blob/main/img/banner.gif"  />
+    <img src="https://github.com/Chinvoxel/blog/blob/main/img/68747470733a2f2f692e70696e696d672e636f6d2f353634782f63342f32332f39612f63343233396166366538376437663939623833323136313065353438613932342e6a7067.png"  />
 </div>
 
 <br/>
