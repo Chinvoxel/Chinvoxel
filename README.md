@@ -13,18 +13,21 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div align="center">
-    <img src="https://github.com/Chinvoxel/blog/blob/main/img/68747470733a2f2f692e70696e696d672e636f6d2f353634782f63342f32332f39612f63343233396166366538376437663939623833323136313065353438613932342e6a7067.png"  />
-</div>
+### Hi guys 👋
+
+- 🔭 I’m currently working on KuaiXiang Network Technology Co., Ltd.
+- 🌱 I’m currently learning React and Node
+- 📫 How to reach me: 1350106846@qq.com
+
 
 <br/>
 
-# About My Github
+### About My Github
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chinvoxel&layout=compact)](https://github.com/Chinvoxel/github-readme-stats)
 
 
 
-## My Skill Set  
+### My Skill Set  
 <table><tr><td valign="top" width="33%">
 
 
