@@ -26,28 +26,20 @@ Here are some ideas to get you started:
 
 <br/>
 
-### 📊 About My Github
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chinvoxel&layout=compact)](https://github.com/Chinvoxel/github-readme-stats)
-
 ### 🛠️ My Tech Stack 
 
 <div align="center">
   <!-- 前端核心语言和框架 -->
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=fff" alt="Vue.js" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/Uni_App-07C160?style=flat&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDI0IDEwMjQiPjx0aXRsZT51bmktYXBwPC90aXRsZT48cGF0aCBkPSJNMzU3LjYgNzY0LjdjLTE2IDE5LjYtNDQgMTkuNi02MCAwbC0xNTUuMS0xOTBjLTE2LTE5LjYtMTYtNTEuNCAwLTcxbDE1NS4xLTE5MGMxNi0xOS42IDQ0LTE5LjYgNjAgMGwxNTUuMSAxOTBjMTYgMTkuNiAxNiA1MS40IDAgNzFMMzU3LjYgNzY0Ljd6TTgyNi40IDc2NC43Yy0xNiAxOS42LTQ0IDE5LjYtNjAgMGwtMTU1LjEtMTkwYy0xNi0xOS42LTE2LTUxLjQgMC03MWwxNTUuMS0xOTBjMTYtMTkuNiA0NC0xOS42IDYwIDBsMTU1LjEgMTkwYzE2IDE5LjYgMTYgNTEuNCAwIDcxTDgyNi40IDc2NC43eiIgZmlsbD0iI2ZmZiIvPjwvc3ZnPg==&logoColor=fff" alt="Uni App" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=fff" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=fff" alt="CSS3" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=fff" alt="TypeScript" />
 </div>
 
-<div align="center" style="margin-top: 20px;">
-  <!-- 前端框架和库 -->
-  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=fff" alt="Vue.js" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" alt="React" />
-  <img src="https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=fff" alt="Redux" />
-  <img src="https://img.shields.io/badge/Pinia-F2E142?style=flat&logo=vue.js&logoColor=black" alt="Pinia" />
-</div>
-
-<div align="center" style="margin-top: 20px;">
+<div align="center" style="margin-top: 40px;">
   <!-- UI框架和样式 -->
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=fff" alt="Tailwind CSS" />
   <img src="https://img.shields.io/badge/Sass-CC6699?style=flat&logo=sass&logoColor=fff" alt="Sass" />
@@ -57,7 +49,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Vant_UI-1989FA?style=flat&logo=vant&logoColor=fff" alt="Vant UI" />
 </div>
 
-<div align="center" style="margin-top: 20px;">
+<div align="center" style="margin-top: 40px;">
   <!-- 构建工具和环境 -->
   <img src="https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=fff" alt="Vite" />
   <img src="https://img.shields.io/badge/Webpack-8DD6F9?style=flat&logo=webpack&logoColor=black" alt="Webpack" />
@@ -66,15 +58,16 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Cursor-303030?style=flat&logo=cursor&logoColor=fff" alt="Cursor" />
 </div>
 
-<div align="center" style="margin-top: 20px;">
-  <!-- 小程序和跨端开发 -->
+<div align="center" style="margin-top: 40px;">
+  <!-- 小程序和前端生态 -->
   <img src="https://img.shields.io/badge/WeChat_MiniProgram-07C160?style=flat&logo=wechat&logoColor=fff" alt="WeChat MiniProgram" />
   <img src="https://img.shields.io/badge/TikTok_MiniProgram-000000?style=flat&logo=tiktok&logoColor=fff" alt="TikTok MiniProgram" />
-  <img src="https://img.shields.io/badge/Uni_App-07C160?style=flat&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDI0IDEwMjQiPjx0aXRsZT51bmktYXBwPC90aXRsZT48cGF0aCBkPSJNMzU3LjYgNzY0LjdjLTE2IDE5LjYtNDQgMTkuNi02MCAwbC0xNTUuMS0xOTBjLTE2LTE5LjYtMTYtNTEuNCAwLTcxbDE1NS4xLTE5MGMxNi0xOS42IDQ0LTE5LjYgNjAgMGwxNTUuMSAxOTBjMTYgMTkuNiAxNiA1MS40IDAgNzFMMzU3LjYgNzY0Ljd6TTgyNi40IDc2NC43Yy0xNiAxOS42LTQ0IDE5LjYtNjAgMGwtMTU1LjEtMTkwYy0xNi0xOS42LTE2LTUxLjQgMC03MWwxNTUuMS0xOTBjMTYtMTkuNiA0NC0xOS42IDYwIDBsMTU1LjEgMTkwYzE2IDE5LjYgMTYgNTEuNCAwIDcxTDgyNi40IDc2NC43eiIgZmlsbD0iI2ZmZiIvPjwvc3ZnPg==&logoColor=fff" alt="Uni App" />
+  <img src="https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=fff" alt="Redux" />
+  <img src="https://img.shields.io/badge/Pinia-F2E142?style=flat&logo=vue.js&logoColor=black" alt="Pinia" />
   <img src="https://img.shields.io/badge/ECharts-AA344D?style=flat&logo=apache-echarts&logoColor=fff" alt="ECharts" />
 </div>
 
-<div align="center" style="margin-top: 20px;">
+<div align="center" style="margin-top: 40px;">
   <!-- 开发工具和运维 -->
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=fff" alt="Git" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" alt="Linux" />
@@ -84,4 +77,18 @@ Here are some ideas to get you started:
 </div>
 
 <br/>
+
+### 📊 About My Github
+
+<div align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Chinvoxel&theme=react&line_height=40&hide=css" alt="Chinvoxel's Top Languages" />
+</div>
+
+<div align="center" style="margin-top: 20px">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Chinvoxel&theme=react" alt="Chinvoxel's Github Streak" />
+</div>
+
+<div align="center" style="margin-top: 20px">
+  <img src="https://github-profile-trophy.vercel.app/?username=Chinvoxel&theme=nord&row=1&column=6" alt="Chinvoxel's Github Trophy" />
+</div>
 
