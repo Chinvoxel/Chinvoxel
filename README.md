@@ -75,6 +75,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=fff" alt="Vite" />
   <img src="https://img.shields.io/badge/Webpack-8DD6F9?style=flat&logo=webpack&logoColor=black" alt="Webpack" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=fff" alt="Node.js" />
+  <img src="https://img.shields.io/badge/ESLint-4B32C3?style=flat&logo=eslint&logoColor=fff" alt="ESLint" />
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=fff" alt="Git" />
   <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=fff" alt="Visual Studio Code" />
   <img src="https://img.shields.io/badge/Cursor-303030?style=flat&logo=cursor&logoColor=fff" alt="Cursor" />
