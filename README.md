@@ -119,9 +119,6 @@ Here are some ideas to get you started:
 
 <br/>
 
-![Chinvoxel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chinvoxel&hide=contribs,prs)
-
-
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Chinvoxel&style=flat-square&color=70a5fd" alt="Profile Views" />
 </div>
