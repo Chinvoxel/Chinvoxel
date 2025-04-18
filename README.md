@@ -39,7 +39,9 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=fff" alt="TypeScript" />
 </div>
 
-<div align="center" style="margin-top: 40px;">
+<br />
+
+<div align="center">
   <!-- UI框架和样式 -->
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=fff" alt="Tailwind CSS" />
   <img src="https://img.shields.io/badge/Sass-CC6699?style=flat&logo=sass&logoColor=fff" alt="Sass" />
@@ -49,7 +51,9 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Vant_UI-1989FA?style=flat&logo=vant&logoColor=fff" alt="Vant UI" />
 </div>
 
-<div align="center" style="margin-top: 40px;">
+<br />
+
+<div align="center">
   <!-- 构建工具和环境 -->
   <img src="https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=fff" alt="Vite" />
   <img src="https://img.shields.io/badge/Webpack-8DD6F9?style=flat&logo=webpack&logoColor=black" alt="Webpack" />
@@ -58,7 +62,9 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Cursor-303030?style=flat&logo=cursor&logoColor=fff" alt="Cursor" />
 </div>
 
-<div align="center" style="margin-top: 40px;">
+<br />
+
+<div align="center">
   <!-- 小程序和前端生态 -->
   <img src="https://img.shields.io/badge/WeChat_MiniProgram-07C160?style=flat&logo=wechat&logoColor=fff" alt="WeChat MiniProgram" />
   <img src="https://img.shields.io/badge/TikTok_MiniProgram-000000?style=flat&logo=tiktok&logoColor=fff" alt="TikTok MiniProgram" />
@@ -67,7 +73,9 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/ECharts-AA344D?style=flat&logo=apache-echarts&logoColor=fff" alt="ECharts" />
 </div>
 
-<div align="center" style="margin-top: 40px;">
+<br />
+
+<div align="center">
   <!-- 开发工具和运维 -->
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=fff" alt="Git" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" alt="Linux" />
@@ -81,25 +89,33 @@ Here are some ideas to get you started:
 ### 📊 About My Github
 
 <div align="center">
-  <img src="https://github-profile-3d-contrib.vercel.app/api/v1/Chinvoxel?bg_color=1a1b27&color_snake=6272a4&color_main=70a4fc" width="100%" alt="Chinvoxel's 3D Contribution Graph"/>
+  <a href="https://metrics.lecoq.io/Chinvoxel?template=classic&languages=1&achievements=1&isocalendar=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=half-year&languages=false&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.analysis.timeout.repositories=7.5&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&achievements=false&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&config.timezone=Asia%2FShanghai">
+    <img src="https://metrics.lecoq.io/Chinvoxel?template=classic&languages=1&achievements=1&isocalendar=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=half-year&languages=false&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.analysis.timeout.repositories=7.5&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&achievements=false&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&config.timezone=Asia%2FShanghai" alt="Chinvoxel's GitHub Metrics" />
+  </a>
 </div>
 
 <div align="center">
-  <table>
-    <tr>
-      <td>
-        <img width="2000" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chinvoxel&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most Used Languages"/>
-      </td>
-      <td>
-        <img width="2000" src="https://github-readme-streak-stats.herokuapp.com/?user=Chinvoxel&theme=tokyonight&hide_border=true" alt="Contribution Streak"/>
-      </td>
-    </tr>
-  </table>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Chinvoxel&theme=github_dark">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Chinvoxel&theme=github">
+    <img alt="Chinvoxel's GitHub Profile Summary" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Chinvoxel&theme=github_dark">
+  </picture>
 </div>
 
+<br />
+
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Chinvoxel/github-stats-transparent/output/generated/overview.svg" alt="Chinvoxel's GitHub Stats"/>
-  <img src="https://raw.githubusercontent.com/Chinvoxel/github-stats-transparent/output/generated/languages.svg" alt="Top Languages"/>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="180em" src="https://github-readme-stats-five-wine-56.vercel.app/api/top-langs/?username=Chinvoxel&layout=compact&theme=dark&hide_border=true&langs_count=8&include_all_commits=true&count_private=true" />
+  </a>
+</div>
+
+<br />
+
+<div align="center">
+  <a href="https://stats.hyochan.dev/en/stats/Chinvoxel">
+    <img src="https://stats.hyochan.dev/api/github-stats?login=Chinvoxel" width="600" alt="Chinvoxel's GitHub Stats" />
+  </a>
 </div>
 
 <!-- GitHub Achievements -->
@@ -108,4 +124,5 @@ Here are some ideas to get you started:
     <img src="https://github-profile-trophy.vercel.app/?username=Chinvoxel&theme=nord&column=7&no-frame=true&no-bg=true" alt="GitHub Achievements"/>
   </a>
 </div>
+
 
