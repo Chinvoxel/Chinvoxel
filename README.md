@@ -113,6 +113,10 @@ Here are some ideas to get you started:
 
 <br/>
 
+<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Chinvoxel&theme=transparent&hide_border=true&layout=compact&langs_count=12" />
+
+<br/>
+
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Chinvoxel&style=flat-square&color=70a5fd" alt="Profile Views" />
 </div>
