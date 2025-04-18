@@ -81,14 +81,31 @@ Here are some ideas to get you started:
 ### 📊 About My Github
 
 <div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Chinvoxel&theme=react&line_height=40&hide=css" alt="Chinvoxel's Top Languages" />
+  <img src="https://github-profile-3d-contrib.vercel.app/api/v1/Chinvoxel?bg_color=1a1b27&color_snake=6272a4&color_main=70a4fc" width="100%" alt="Chinvoxel's 3D Contribution Graph"/>
 </div>
 
-<div align="center" style="margin-top: 20px">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Chinvoxel&theme=react" alt="Chinvoxel's Github Streak" />
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <img width="2000" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chinvoxel&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most Used Languages"/>
+      </td>
+      <td>
+        <img width="2000" src="https://github-readme-streak-stats.herokuapp.com/?user=Chinvoxel&theme=tokyonight&hide_border=true" alt="Contribution Streak"/>
+      </td>
+    </tr>
+  </table>
 </div>
 
-<div align="center" style="margin-top: 20px">
-  <img src="https://github-profile-trophy.vercel.app/?username=Chinvoxel&theme=nord&row=1&column=6" alt="Chinvoxel's Github Trophy" />
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Chinvoxel/github-stats-transparent/output/generated/overview.svg" alt="Chinvoxel's GitHub Stats"/>
+  <img src="https://raw.githubusercontent.com/Chinvoxel/github-stats-transparent/output/generated/languages.svg" alt="Top Languages"/>
+</div>
+
+<!-- GitHub Achievements -->
+<div align="center">
+  <a href="https://github.com/Chinvoxel">
+    <img src="https://github-profile-trophy.vercel.app/?username=Chinvoxel&theme=nord&column=7&no-frame=true&no-bg=true" alt="GitHub Achievements"/>
+  </a>
 </div>
 
