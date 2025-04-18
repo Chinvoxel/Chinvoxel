@@ -24,11 +24,13 @@ Here are some ideas to get you started:
 - 📫 How to reach me: **1350106846@qq.com**
 - 🌐 Portfolio: [https://chinvoxel.github.io/](https://chinvoxel.github.io/) 
 - ⚡ Fun fact: Interested in 
-  <img src="https://img.shields.io/badge/AI_LLMs-FF6719?style=flat&logoColor=white" alt="AI LLMs" />
-  <img src="https://img.shields.io/badge/AI_Agents-00FFFF?style=flat&logoColor=black" alt="AI Agents" />
-  <img src="https://img.shields.io/badge/Knowledge_Base-44A2D2?style=flat&logoColor=white" alt="Knowledge Base Systems" />
-  <img src="https://img.shields.io/badge/Expo_React_Native-000020?style=flat&logo=expo&logoColor=white" alt="Expo React Native" />
-  <img src="https://img.shields.io/badge/HarmonyOS-000000?style=flat&logo=huawei&logoColor=red" alt="HarmonyOS Development" />
+  <div style="display: inline-block; vertical-align: middle;">
+    <img src="https://img.shields.io/badge/AI_LLMs-FF6719?style=flat&logoColor=white" alt="AI LLMs" />
+    <img src="https://img.shields.io/badge/AI_Agents-00FFFF?style=flat&logoColor=black" alt="AI Agents" />
+    <img src="https://img.shields.io/badge/Knowledge_Base-44A2D2?style=flat&logoColor=white" alt="Knowledge Base Systems" />
+    <img src="https://img.shields.io/badge/Expo_React_Native-4630EB?style=flat&logo=expo&logoColor=white" alt="Expo React Native" />
+    <img src="https://img.shields.io/badge/HarmonyOS-E60012?style=flat&logo=huawei&logoColor=white" alt="HarmonyOS Development" />
+  </div>
 
 <br/>
 
@@ -118,4 +120,4 @@ Here are some ideas to get you started:
 
 <br/>
 
-<div align="center"> <img src="https://visitor-badge.glitch.me/badge?page_id=sun0225SUN" /> </div>
+<div align="center"> <img src="https://visitor-badge.glitch.me/badge?page_id=Chinvoxel" /> </div>
