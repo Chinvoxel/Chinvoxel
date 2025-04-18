@@ -23,6 +23,7 @@ Here are some ideas to get you started:
 - 🌱 Currently exploring advanced React patterns and Node.js microservices
 - 📫 How to reach me: **1350106846@qq.com**
 - 🌐 Portfolio: [https://chinvoxel.github.io/](https://chinvoxel.github.io/) 
+- ⚡ Fun fact: Passionate about **AI LLMs**, **AI Agents**, **Knowledge Base Systems**, **Expo React Native** and **HarmonyOS Development**
 
 <br/>
 
@@ -104,7 +105,7 @@ Here are some ideas to get you started:
 <br/>
 
 <div align="center">
-  <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=Chinvoxel&theme=tokyonight&hide_border=true" />
+  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=Chinvoxel&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=70a5fd&fire=70a5fd&currStreakLabel=70a5fd&currStreakNum=38bdae&sideNums=38bdae&sideLabels=38bdae&dates=bf91f3" alt="Chinvoxel's GitHub Streak Stats" />
 </div>
 
 
