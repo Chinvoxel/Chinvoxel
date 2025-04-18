@@ -114,80 +114,13 @@ Here are some ideas to get you started:
 <br/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
-
-**🐱 My GitHub Data** 
-
-> 📦 11.9 kB Used in GitHub's Storage 
- > 
-> 🏆 27 Contributions in the Year 2025
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 20 Public Repositories 
- > 
-> 🔑 3 Private Repositories 
- > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                25 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.15 % 
-🌆 Daytime                99 commits          ███████████████░░░░░░░░░░   60.00 % 
-🌃 Evening                38 commits          ██████░░░░░░░░░░░░░░░░░░░   23.03 % 
-🌙 Night                  3 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.82 % 
-```
-📅 **I'm Most Productive on Friday** 
-
-```text
-Monday                   11 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
-Tuesday                  21 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.73 % 
-Wednesday                22 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.33 % 
-Thursday                 32 commits          █████░░░░░░░░░░░░░░░░░░░░   19.39 % 
-Friday                   38 commits          ██████░░░░░░░░░░░░░░░░░░░   23.03 % 
-Saturday                 25 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.15 % 
-Sunday                   16 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.70 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
-**I Mostly Code in JavaScript** 
-
-```text
-JavaScript               6 repos             █████████████████░░░░░░░░   66.67 % 
-TypeScript               2 repos             ██████░░░░░░░░░░░░░░░░░░░   22.22 % 
-CSS                      1 repo              ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
-```
-
-
-
-**Timeline**
-
-![Lines of Code chart](https://raw.githubusercontent.com/Chinvoxel/Chinvoxel/main/assets/bar_graph.png)
-
-
- Last Updated on 18/04/2025 10:28:27 UTC
 <!--END_SECTION:waka-->
 
 <br/>
+
+![Chinvoxel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chinvoxel&hide=contribs,prs)
+
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Chinvoxel&style=flat-square&color=70a5fd" alt="Profile Views" />
