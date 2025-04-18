@@ -39,8 +39,6 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=fff" alt="TypeScript" />
 </div>
 
-<br />
-
 <div align="center">
   <!-- UI框架和样式 -->
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=fff" alt="Tailwind CSS" />
@@ -51,8 +49,6 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Vant_UI-1989FA?style=flat&logo=vant&logoColor=fff" alt="Vant UI" />
 </div>
 
-<br />
-
 <div align="center">
   <!-- 构建工具和环境 -->
   <img src="https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=fff" alt="Vite" />
@@ -62,18 +58,14 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Cursor-303030?style=flat&logo=cursor&logoColor=fff" alt="Cursor" />
 </div>
 
-<br />
-
 <div align="center">
   <!-- 小程序和前端生态 -->
   <img src="https://img.shields.io/badge/WeChat_MiniProgram-07C160?style=flat&logo=wechat&logoColor=fff" alt="WeChat MiniProgram" />
-  <img src="https://img.shields.io/badge/TikTok_MiniProgram-000000?style=flat&logo=tiktok&logoColor=fff" alt="TikTok MiniProgram" />
+  <img src="https://img.shields.io/badge/TikTok_MiniProgram-FE2C55?style=flat&logo=tiktok&logoColor=fff" alt="TikTok MiniProgram" />
   <img src="https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=fff" alt="Redux" />
   <img src="https://img.shields.io/badge/Pinia-F2E142?style=flat&logo=vue.js&logoColor=black" alt="Pinia" />
   <img src="https://img.shields.io/badge/ECharts-AA344D?style=flat&logo=apache-echarts&logoColor=fff" alt="ECharts" />
 </div>
-
-<br />
 
 <div align="center">
   <!-- 开发工具和运维 -->
@@ -84,45 +76,35 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Charles-F15623?style=flat&logo=charles&logoColor=fff" alt="Charles" />
 </div>
 
-<br/>
-
 ### 📊 About My Github
 
 <div align="center">
-  <a href="https://metrics.lecoq.io/Chinvoxel?template=classic&languages=1&achievements=1&isocalendar=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=half-year&languages=false&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.analysis.timeout.repositories=7.5&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&achievements=false&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&config.timezone=Asia%2FShanghai">
-    <img src="https://metrics.lecoq.io/Chinvoxel?template=classic&languages=1&achievements=1&isocalendar=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=half-year&languages=false&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.analysis.timeout.repositories=7.5&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&achievements=false&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&config.timezone=Asia%2FShanghai" alt="Chinvoxel's GitHub Metrics" />
-  </a>
+  <img src="https://github-profile-trophy.vercel.app/?username=Chinvoxel&theme=nord&row=1&column=6&no-frame=true&no-bg=true" alt="GitHub Achievements"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=Chinvoxel&show_icons=true&count_private=true&hide_border=true&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae&bg_color=0D1117" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chinvoxel&layout=compact&hide_border=true&title_color=70a5fd&text_color=38bdae&bg_color=0D1117" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Chinvoxel&theme=github_dark">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Chinvoxel&theme=github">
-    <img alt="Chinvoxel's GitHub Profile Summary" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Chinvoxel&theme=github_dark">
-  </picture>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Chinvoxel&bg_color=0D1117&color=70a5fd&line=38bdae&point=bf91f3&area=true&hide_border=true" alt="Contribution Graph" />
 </div>
 
-<br />
+<br/>
 
 <div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180em" src="https://github-readme-stats-five-wine-56.vercel.app/api/top-langs/?username=Chinvoxel&layout=compact&theme=dark&hide_border=true&langs_count=8&include_all_commits=true&count_private=true" />
-  </a>
-</div>
-
-<br />
-
-<div align="center">
-  <a href="https://stats.hyochan.dev/en/stats/Chinvoxel">
-    <img src="https://stats.hyochan.dev/api/github-stats?login=Chinvoxel" width="600" alt="Chinvoxel's GitHub Stats" />
-  </a>
-</div>
-
-<!-- GitHub Achievements -->
-<div align="center">
-  <a href="https://github.com/Chinvoxel">
-    <img src="https://github-profile-trophy.vercel.app/?username=Chinvoxel&theme=nord&column=7&no-frame=true&no-bg=true" alt="GitHub Achievements"/>
-  </a>
+  <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=Chinvoxel&theme=tokyonight&hide_border=true" />
 </div>
 
 
