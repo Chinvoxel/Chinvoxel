@@ -22,12 +22,12 @@ Here are some ideas to get you started:
 - 🔭 5+ years experience in building responsive and interactive web applications
 - 🌱 Currently exploring advanced React patterns and Node.js microservices
 - 📫 How to reach me: **1350106846@qq.com**
-- 🌐 Portfolio: [https://chinvoxel.github.io/](https://chinvoxel.github.io/) 
+- 🌐 Portfolio: [https://chinvoxel.github.io/](https://chinvoxel.github.io/)
 - ⚡ Fun fact: Interested in &nbsp;<img align="center" src="https://img.shields.io/badge/AI_LLMs-FF6719?style=flat&logoColor=white" alt="AI LLMs" />&nbsp;<img align="center" src="https://img.shields.io/badge/AI_Agents-00FFFF?style=flat&logoColor=black" alt="AI Agents" />&nbsp;<img align="center" src="https://img.shields.io/badge/Knowledge_Base-44A2D2?style=flat&logoColor=white" alt="Knowledge Base Systems" />&nbsp;<img align="center" src="https://img.shields.io/badge/Expo_React_Native-4630EB?style=flat&logo=expo&logoColor=white" alt="Expo React Native" />&nbsp;<img align="center" src="https://img.shields.io/badge/HarmonyOS-E60012?style=flat&logo=huawei&logoColor=white" alt="HarmonyOS Development" />
 
 <br/>
 
-### 🛠️ My Tech Stack 
+### 🛠️ My Tech Stack
 
 <!-- 行1: 核心前端框架和语言 -->
 <div align="center">
@@ -113,7 +113,9 @@ Here are some ideas to get you started:
 
 <br/>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Chinvoxel&theme=transparent&hide_border=true&layout=compact&langs_count=12" />
+<div align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Chinvoxel&theme=transparent&hide_border=true&layout=compact&langs_count=12&range=all_time" />
+</div>
 
 <br/>
 
