@@ -114,10 +114,6 @@ Here are some ideas to get you started:
 <br/>
 
 <!--START_SECTION:waka-->
-<div align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Chinvoxel&theme=transparent&hide_border=true&layout=compact&langs_count=12&range=all_time" />
-  
-</div>
 <!--END_SECTION:waka-->
 
 <br/>
