@@ -114,13 +114,11 @@ Here are some ideas to get you started:
 <br/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%20hrs%2057%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%20hrs%2014%20mins-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 11.9 kB Used in GitHub's Storage 
- > 
-> 🏆 31 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -155,16 +153,22 @@ Sunday                   16 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Bash                     12 mins             ██████████████████░░░░░░░   72.82 % 
+Other                    4 mins              ███████░░░░░░░░░░░░░░░░░░   26.02 % 
+TSConfig                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 % 
+Docker                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 % 
+YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  16 mins             █████████████████████████   99.39 % 
+Trae                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+Unknown Project          12 mins             ██████████████████░░░░░░░   72.82 % 
+evoto-web                4 mins              ███████░░░░░░░░░░░░░░░░░░   27.18 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      16 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -178,7 +182,7 @@ CSS                      1 repo              ███░░░░░░░░�
 
 
 
- Last Updated on 13/05/2025 18:44:53 UTC
+ Last Updated on 14/05/2025 18:44:50 UTC
 <!--END_SECTION:waka-->
 
 <br/>
