@@ -114,7 +114,7 @@ Here are some ideas to get you started:
 <br/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-591%20hrs%2015%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-596%20hrs%2018%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -157,16 +157,25 @@ Sunday                   22 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Vue.js                   28 hrs 30 mins      █████████████████░░░░░░░░   66.33 % 
+TypeScript               11 hrs 18 mins      ███████░░░░░░░░░░░░░░░░░░   26.32 % 
+JSON                     2 hrs 51 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.64 % 
+SCSS                     7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 % 
+Markdown                 6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Trae                     34 hrs 25 mins      ████████████████████░░░░░   80.08 % 
+VS Code                  8 hrs 33 mins       █████░░░░░░░░░░░░░░░░░░░░   19.92 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+evoto-web                20 hrs 59 mins      ████████████░░░░░░░░░░░░░   48.84 % 
+evoto-inline-web         19 hrs 8 mins       ███████████░░░░░░░░░░░░░░   44.52 % 
+evoto-admin              2 hrs 27 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.73 % 
+evoto-business-admin     15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 % 
+instant-web              7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      42 hrs 59 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -185,7 +194,7 @@ CSS                      1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Chinvoxel/Chinvoxel/main/assets/bar_graph.png)
 
 
- Last Updated on 17/10/2025 18:43:07 UTC
+ Last Updated on 18/10/2025 18:41:17 UTC
 <!--END_SECTION:waka-->
 
 <br/>
