@@ -23,7 +23,7 @@ jobs:
 
       # 推荐：不要直接使用 @master，改用 release tag 或 SHA（示例使用 v1，如果没有请替换为 action 的有效 tag 或 commit）
       - name: Update WakaTime README
-        uses: anmol098/waka-readme-stats@v1
+        uses: anmol098/waka-readme-stats@master
         with:
           # 优先使用自定义 GH_ACCESS_TOKEN（如果你在 Settings->Secrets 放了个人 PAT），
           # 否则回退到自动生成的 GITHUB_TOKEN（在大多数场景足够）
